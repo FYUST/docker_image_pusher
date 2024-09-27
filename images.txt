@@ -1,1 +1,1 @@
-chirpstack/chirpstack-application-server:3
+chirpstack/chirpstack-network-server:3
